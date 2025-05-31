@@ -1,0 +1,2 @@
+Width,Height,Roi.X1,Roi.Y1,Roi.X2,Roi.Y2,ClassId,Path
+42,45,0,0,42,45,1,Test/00001.png
